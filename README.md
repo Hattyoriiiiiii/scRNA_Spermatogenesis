@@ -46,6 +46,8 @@ The Dynamic Transcriptional Cell Atlas of Testis Development during Human Pubert
 Tan et al., 2020
 Single-cell RNAseq analysis of testicular germ and somatic cell development during the perinatal period.
 
+Shami et al., 2020
+[Single-Cell RNA Sequencing of Human, Macaque, and Mouse Testes Uncovers Conserved and Divergent Features of Mammalian Spermatogenesis](https://www.sciencedirect.com/science/article/pii/S1534580720303993?via%3Dihub)
 
 ## Review
 Suzuki et al., 2019
@@ -55,4 +57,4 @@ Soraggi et al., 2020
 Evaluating genetic causes of azoospermia: What can we learn from a complex cellular structure and single-cell transcriptomics of the human testis?
 
 Geisinger et al., 2021
-[Transcriptomics of Meiosis in the Male Mouse(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973102/)
+[Transcriptomics of Meiosis in the Male Mouse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973102/)
